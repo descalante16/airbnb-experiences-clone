@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.b55165fc.css",
-    "main.js": "/static/js/main.5ce5beac.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/photo-grid.png": "/static/media/photo-grid.3bd831d2f25a9b9a2c5e.png",
-    "static/media/seoul.jpeg": "/static/media/seoul.a0668bffe0a1fbb4bca6.jpeg",
-    "static/media/new-york.jpeg": "/static/media/new-york.ca6af717d2f978582bd0.jpeg",
-    "static/media/japan.jpeg": "/static/media/japan.69799219b51f6b0e1f25.jpeg",
-    "static/media/Logo-Airbnb-1536x557.png": "/static/media/Logo-Airbnb-1536x557.79e34b8a41c5b4e54415.png",
-    "static/media/barcelona.jpeg": "/static/media/barcelona.79ad9deae8006e2062dc.jpeg",
-    "static/media/heart-regular.svg": "/static/media/heart-regular.afcc7827d1060d345a26853b7ae1722a.svg",
-    "index.html": "/index.html",
-    "static/media/star-solid.svg": "/static/media/star-solid.62ab62187631be154f1d21cdbd45b84a.svg",
-    "main.b55165fc.css.map": "/static/css/main.b55165fc.css.map",
-    "main.5ce5beac.js.map": "/static/js/main.5ce5beac.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/airbnb-experiences-clone/static/css/main.b55165fc.css",
+    "main.js": "/airbnb-experiences-clone/static/js/main.10675b66.js",
+    "static/js/787.28cb0dcd.chunk.js": "/airbnb-experiences-clone/static/js/787.28cb0dcd.chunk.js",
+    "static/media/photo-grid.png": "/airbnb-experiences-clone/static/media/photo-grid.3bd831d2f25a9b9a2c5e.png",
+    "static/media/seoul.jpeg": "/airbnb-experiences-clone/static/media/seoul.a0668bffe0a1fbb4bca6.jpeg",
+    "static/media/new-york.jpeg": "/airbnb-experiences-clone/static/media/new-york.ca6af717d2f978582bd0.jpeg",
+    "static/media/japan.jpeg": "/airbnb-experiences-clone/static/media/japan.69799219b51f6b0e1f25.jpeg",
+    "static/media/Logo-Airbnb-1536x557.png": "/airbnb-experiences-clone/static/media/Logo-Airbnb-1536x557.79e34b8a41c5b4e54415.png",
+    "static/media/barcelona.jpeg": "/airbnb-experiences-clone/static/media/barcelona.79ad9deae8006e2062dc.jpeg",
+    "static/media/heart-regular.svg": "/airbnb-experiences-clone/static/media/heart-regular.afcc7827d1060d345a26853b7ae1722a.svg",
+    "index.html": "/airbnb-experiences-clone/index.html",
+    "static/media/star-solid.svg": "/airbnb-experiences-clone/static/media/star-solid.62ab62187631be154f1d21cdbd45b84a.svg",
+    "main.b55165fc.css.map": "/airbnb-experiences-clone/static/css/main.b55165fc.css.map",
+    "main.10675b66.js.map": "/airbnb-experiences-clone/static/js/main.10675b66.js.map",
+    "787.28cb0dcd.chunk.js.map": "/airbnb-experiences-clone/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b55165fc.css",
-    "static/js/main.5ce5beac.js"
+    "static/js/main.10675b66.js"
   ]
 }
